@@ -5,18 +5,21 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\sound0</sound>
+    <sound>sound\snd_ShipEngine</sound>
+    <sound>sound\snd_Lazer</sound>
+    <sound>sound\snd_BackgroundMusic</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\spr_player</sprite>
+    <sprite>sprites\spr_Player</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
+    <object>objects\obj_BackgroundMusic</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\rm_games</room>
+    <room>rooms\rm_Space</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
