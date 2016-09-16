@@ -11,11 +11,13 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_Player</sprite>
+    <sprite>sprites\spr_bullet</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_player</object>
+    <object>objects\obj_bullet</object>
     <object>objects\obj_BackgroundMusic</object>
   </objects>
   <rooms name="rooms">
